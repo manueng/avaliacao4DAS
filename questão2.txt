@@ -1,0 +1,2 @@
+﻿ O skeleton , stub ,  fazem  parte da função do framework de componente já que permitem que as informaçõesejam trocadas entre componentes , respectivamente   serilizar e deserilizar os dados para estes serem passados pela rede ou serem recebidos por servidores. 
+
