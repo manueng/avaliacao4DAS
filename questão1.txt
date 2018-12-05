@@ -1,0 +1,4 @@
+﻿  Os elementos são modelo de componente , Frameworks de componentes e os próprios componentes. 
+       O modelo de componentes, A convenção sobre os componentes que diz de que tipo irao ser o s componentes, de que nivel segurança serão os componentes e  recursos necessários.
+        O Framework de componentes de por sua vez estabelece a infra estrutura de suporte a  comunicação  entre os diferentes  componentes: disponibilização oferta dos serviços dos coponentes e suas assinaturas ,  oferta dos serviços e gerenciamento dos serviços , segurnça dos dados trafegados , gerenciamento das transações , suporte e escalonamento de comunicações.
+        E os componentes propriamente ditos que se desemepnham as funções especificadas  , que se utilizam da infra estrtura de comunicação oferecida pelo framework de componentes e repeitam as convenções do modelo de componentes. 
